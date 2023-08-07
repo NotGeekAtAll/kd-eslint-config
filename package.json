@@ -1,6 +1,6 @@
 {
   "name": "@kc-one/eslint-config",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "eslint 规则",
   "main": "index.js",
   "scripts": {
