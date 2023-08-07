@@ -12,11 +12,3 @@ module.exports = {
 };
 
 ```
-
-### vue2
-vue2 + js
-```
-module.exports = {
-  extends: ['@kc-one/eslint-config/base', '@kc-one/eslint-config/vue2']
-};
-```
