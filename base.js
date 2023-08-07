@@ -40,5 +40,6 @@ module.exports = {
     'dot-notation': ['error', { allowKeywords: true }], // 尽可能强制执行点表示法
     'no-debugger': 'error', // 禁止debugger
     'object-curly-spacing': ['error', 'always'], // 强制大括号内的间距一致
+    'object-curly-newline': ['error', { multiline: true, consistent: true }],
   }
 }
